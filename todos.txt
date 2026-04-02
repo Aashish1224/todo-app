@@ -1,0 +1,5 @@
+clean
+throw
+prepare
+study
+turn off the lights
