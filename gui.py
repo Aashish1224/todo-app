@@ -58,7 +58,7 @@ while True:
                 todos.remove(todo_to_complete)
                 functions.write_todos(todos)
                 window['todos'].update(values=todos)
-                window["todo"].update(values="")
+                window["todo"].update(value="")
             except IndexError:
                 sg.popup("Please select an item first.", font=("Helvetica", 20))
         case "Exit":
