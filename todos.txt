@@ -4,4 +4,3 @@ prepare
 study
 turn off the lights
 bike wash
-play footballplay chess
