@@ -4,3 +4,7 @@ prepare
 study
 turn off the lights
 bike wash
+bike wash 
+water
+
+
